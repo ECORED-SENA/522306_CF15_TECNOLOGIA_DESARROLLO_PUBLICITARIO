@@ -3,6 +3,10 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
+    .titulo-principal
+      .titulo-principal__numero
+        span 4
+      h1 Google Analytics
 
 </template>
 

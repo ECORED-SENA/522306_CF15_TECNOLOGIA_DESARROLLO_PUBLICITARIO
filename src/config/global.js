@@ -13,12 +13,12 @@ export default {
         icono: 'fas fa-home',
         titulo: 'Volver al inicio',
       },
-      {
+      /*{
         nombreRuta: 'introduccion',
         icono: 'fas fa-info',
         titulo: 'Introducción',
         desarrolloContenidos: true,
-      },
+      },*/
       {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
@@ -68,7 +68,7 @@ export default {
         desarrolloContenidos: true,
       },
       {
-        nombreRuta: 'tema4',
+        nombreRuta: 'tema5',
         icono: 'far fa-file-alt',
         numero: '5',
         titulo: 'Métricas en otras redes sociales',
