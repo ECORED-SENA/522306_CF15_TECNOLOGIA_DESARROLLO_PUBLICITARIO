@@ -4,7 +4,7 @@ export default {
     descripcionCurso:
       'La analítica web es la medición, análisis y presentación de datos de monitorización a las actividades que una empresa realiza en medios online, con el fin de realizar acciones de mejoramiento de las estrategias y, con ello, generar mayor efectividad de los planes de marketing y comunicación digital llevados a cabo por la empresa para dar cumplimiento a los objetivos.',
     imagenBannerPrincipal: require('@/assets/curso/banner-principal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/fondo-banne.png'),
+    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-bg.svg'),
   },
   menuPrincipal: {
     menu: [
@@ -87,11 +87,11 @@ export default {
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
       },
-      {
+      /*{
         nombreRuta: 'complementario',
         icono: 'far fa-folder-open',
         titulo: 'Material complementario',
-      },
+      },*/
       {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
@@ -112,35 +112,26 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'Ávila, B. y Llamazares, F. (2018). Medición de audiencias. TOM Micro. Utilidades en la elaboración de un plan de medios. ESIC Editorial.',
+    },
+    {
+      referencia:
+        'Benítez, M. (2019). Diccionario de marketing digital. MKT2U. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://communitymanager2u.com/blog-diccionario-de-marketing-digital/',
+    },
+    {
+      referencia: 'Cibrián, I. (2018). Marketing digital. ESIC Editorial.',
+    },
+    {
+      referencia: 'Maldonado, S. (2016). Analítica web. ESIC Editorial.',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'Rodríguez, I., Suárez, A. y García, M. (2008). Dirección publicitaria. Editorial UOC.',
     },
     {
-      referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
-    },
-    {
-      referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+      referencia: 'Roldan, S. (2016). Community Manager 2.0. Ecoe Ediciones.',
     },
     {
       referencia:
@@ -150,69 +141,51 @@ export default {
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'Soria, M. (2015). Plan de medios de comunicación e internet. Editorial CEP.',
+    },
+    {
+      referencia:
+        'Turletti, P. (2018). El ROI de marketing y ventas. ESIC Editorial.',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Alcance orgánico',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'porcentaje o dato numérico que evalúa el impacto y el número de personas que han visto una publicación de manera natural, sin ningún tipo de promoción o publicidad de pago (Benítez, 2019).',
     },
     {
-      termino: 'Suftware',
+      termino: 'Alcance vira',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'unidad de medida que calcula el número de personas que han visto una publicación a través de otros contactos.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Cookies',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'pequeños fragmentos de información que quedan registrados en el navegador cuando se visita un sitio web y que permiten a este sitio seguir el rastro de la actividad de los usuarios.',
     },
     {
-      termino: 'Áectores',
+      termino: 'Fanpage',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'también llamada página de fans es la plataforma que ofrece Facebook a las empresas, marcas u organizaciones para visibilizar y conectar con los usuarios (Benítez, 2019).',
     },
     {
-      termino: 'Moda',
+      termino: 'Hashtag',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'etiqueta formada por una palabra o un conjunto de palabras precedidas por el símbolo numeral (#) que transmite una idea, un nombre o un concepto que normalmente va asociado con un mensaje o texto.',
     },
     {
-      termino: 'Diseño',
+      termino: 'Marketing de contenidos',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'estrategias de marketing enfocadas en ofrecer contenidos útiles y de ayuda a los usuarios principalmente a través del blog y del social media marketing.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Retargeting',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
-    },
-    {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'nueva técnica de publicidad que consiste en mostrar al usuario productos afines, una especie de filtro personalizado de productos y servicios en los que se está más receptivo recibir información. El producto te sigue por la red (Benítez, 2019).',
     },
   ],
-  complementario: [
+  /*complementario: [
     {
       texto:
         'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
@@ -241,7 +214,7 @@ export default {
       tipo: 'Video',
       link: 'https://www.google.com/',
     },
-  ],
+  ],*/
   creditos: {
     liderEquipo: [
       {
@@ -257,6 +230,28 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
+      {
+        nombre: 'Manuel Augusto Arias López',
+        cargo: 'Instructor-Experto temático',
+        centro: 'Centro de Comercio y Servicios – Regional Quindío',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Diseñador instruccional',
+        centro: 'Centro de Diseño y Metrología – Regional Distrito Capital',
+      },
+      {
+        nombre: 'Vilma Lucía Perilla Méndez',
+        cargo: 'Evaluadora instruccional',
+        centro:
+          'Centro para la Industria y la Comunicación Gráfica – Regional Distrito Capital',
+      },
+      {
+        nombre: 'Julieth Paola Vital López',
+        cargo: 'Correctora de estilo',
+        centro:
+          'Centro para la Industria y la Comunicación Gráfica – Regional Distrito Capital',
+      },
     ],
     desarrolloProducto: [
       {
@@ -271,13 +266,13 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: ['Marcela Gonzales'],
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Jhon Andres Ayala Angarita',
         cargo: 'Desarrollo Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

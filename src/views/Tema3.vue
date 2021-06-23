@@ -286,7 +286,7 @@
                         .row.justify-content-center
                           .col-lg-5
                             figure.mb-2
-                              img(src='@/assets/curso/tema3/instagram/Anexo_14.png',alt='Anexo 14').mx.auto
+                              img(src='@/assets/curso/tema3/instagram/Anexo_14.png',alt='Anexo 14').mx-auto
                               figcaption(style="background-color: #c2b7ea; ") Anexo 14
       
 
@@ -308,7 +308,7 @@
                         .row.justify-content-center
                           .col-lg-5
                             figure.mb-2
-                              img(src='@/assets/curso/tema3/instagram/Anexo_15.png',alt='Anexo 15').mx.auto
+                              img(src='@/assets/curso/tema3/instagram/Anexo_15.png',alt='Anexo 15').mx-auto
                               figcaption(style="background-color: #c2b7ea; ") Anexo 15
               .row.justify-content-center
                 .col-lg-12
@@ -320,7 +320,7 @@
                         .row.justify-content-center
                           .col-lg-5
                             figure.mb-2
-                              img(src='@/assets/curso/tema3/instagram/Anexo_16.png',alt='Anexo 16').mx.auto
+                              img(src='@/assets/curso/tema3/instagram/Anexo_16.png',alt='Anexo 16').mx-auto
                               figcaption(style="background-color: #c2b7ea; ") Anexo 16
 
 
