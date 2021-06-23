@@ -105,16 +105,16 @@
                           .col-sm.mb-5.mb-s
                             ul.lista-ul
                               li 
-                                i.fas.fa-angle-right
+                                i.fas.fa-angle-right(style="color: #f5ca56 ;")
                                 | Cantidad de "Me gusta".
                               li 
-                                i.fas.fa-angle-right
+                                i.fas.fa-angle-right(style="color: #f5ca56 ;")
                                 | Comentarios.
                               li 
-                                i.fas.fa-angle-right
+                                i.fas.fa-angle-right(style="color: #f5ca56 ;")
                                 | Veces compartida.
                               li 
-                                i.fas.fa-angle-right
+                                i.fas.fa-angle-right(style="color: #f5ca56 ;")
                                 | Veces guardada.
               .row(style="border-bottom: 2px solid #c5c5c5;")
                 .col-lg-12
@@ -127,10 +127,10 @@
                           .col-sm.mb-5.mb-s
                             ul.lista-ul
                               li 
-                                i.fas.fa-angle-right
+                                i.fas.fa-angle-right(style="color: #f5ca56 ;")
                                 | Vistas al perfil.
                               li 
-                                i.fas.fa-angle-right
+                                i.fas.fa-angle-right(style="color: #f5ca56 ;")
                                 | Clics en el sitio.
                 
               .row(style="")
@@ -144,13 +144,13 @@
                           .col-sm.mb-2.mb-s
                             ul.lista-ul
                               li 
-                                i.fas.fa-angle-right
+                                i.fas.fa-angle-right(style="color: #f5ca56 ;")
                                 | Seguimientos.
                               li 
-                                i.fas.fa-angle-right
+                                i.fas.fa-angle-right(style="color: #f5ca56 ;")
                                 | Alcance.
                               li 
-                                i.fas.fa-angle-right
+                                i.fas.fa-angle-right(style="color: #f5ca56 ;")
                                 | Impresiones.
                                 li 
                                   ul
@@ -201,7 +201,7 @@
                           .col-sm.mb-1.mb-s
                             ul.lista-ul
                               li 
-                                i.fas.fa-angle-right
+                                i.fas.fa-angle-right(style="color: #f5ca56 ;")
                                 | Interacciones: muestra el número de personas que interactuaron con la historia de la publicación.
                               li 
                                 ul
@@ -247,22 +247,22 @@
                           .col-sm.mb-1.mb-s
                             ul.lista-ul
                               li 
-                                i.fas.fa-angle-right
+                                i.fas.fa-angle-right(style="color: #f5ca56 ;")
                                 | Vistas de perfil.
                               li 
-                                i.fas.fa-angle-right
+                                i.fas.fa-angle-right(style="color: #f5ca56 ;")
                                 | Número de personas que vieron la publicación promocionada.
                               li 
-                                i.fas.fa-angle-right
+                                i.fas.fa-angle-right(style="color: #f5ca56 ;")
                                 | Número de impresiones.
                               li 
-                                i.fas.fa-angle-right
+                                i.fas.fa-angle-right(style="color: #f5ca56 ;")
                                 | Número de engagement.
                               li 
-                                i.fas.fa-angle-right
+                                i.fas.fa-angle-right(style="color: #f5ca56 ;")
                                 | Segmento demográfico (género, rango de edad, ubicación).
                               li 
-                                i.fas.fa-angle-right
+                                i.fas.fa-angle-right(style="color: #f5ca56 ;")
                                 | Valor invertido.
                         p.mb-0 Adicionalmente, es posible realizar una comparación de estos resultados con la misma publicación realizada de forma orgánica.
 

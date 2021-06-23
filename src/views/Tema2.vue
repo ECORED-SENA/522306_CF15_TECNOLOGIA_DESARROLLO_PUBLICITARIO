@@ -381,19 +381,19 @@
                           .col-sm.mb-2.mb-sm-0
                             ul.lista-ul
                               li 
-                                i.fas.fa-angle-right
+                                i.fas.fa-angle-right(style="color: #f5ca56 ;")
                                 p #[strong Por sección:] personas que iniciaron sesión y vieron las diferentes pestañas del perfil de la página.
                               li 
-                                i.fas.fa-angle-right
+                                i.fas.fa-angle-right(style="color: #f5ca56 ;")
                                 p #[strong Por edad y sexo:] personas que iniciaron sesión que vieron el perfil de la página diferenciados por edad y sexo.
                               li 
-                                i.fas.fa-angle-right
+                                i.fas.fa-angle-right(style="color: #f5ca56 ;")
                                 p #[strong Por país:] personas que iniciaron sesión que vieron el perfil de la página discriminados por país de origen.
                               li 
-                                i.fas.fa-angle-right
+                                i.fas.fa-angle-right(style="color: #f5ca56 ;")
                                 p #[strong Por ciudad:] personas que iniciaron sesión y que vieron el perfil de la página mostrando la ciudad de origen.
                               li 
-                                i.fas.fa-angle-right
+                                i.fas.fa-angle-right(style="color: #f5ca56 ;")
                                 p #[strong Por dispositivo:] personas que iniciaron sesión y que vieron el perfil de la página, permitiendo diferenciar el tipo de dispositivo desde el cual accedieron: computador o móvil.
 
               .row.justify-content-start
