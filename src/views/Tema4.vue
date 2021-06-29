@@ -24,21 +24,21 @@
             figure.mb-3
               img(src='@/assets/curso/tema4/icono1.svg',alt='avatar que acompaña', style="width:57px;").mx-auto
           .col-auto.align-self-center
-            p.mb-3 Mejorar la experiencia del usuario.
+            p.mb-3 Incrementar conversiones.
         
         .row.centrado-tema4.mb-4(style="border-bottom: 2px solid #c5c5c5")
           .col-auto
             figure.mb-3
               img(src='@/assets/curso/tema4/icono1.svg',alt='avatar que acompaña', style="width:57px;").mx-auto
           .col-auto.align-self-center
-            p.mb-3 Mejorar la experiencia del usuario.
+            p.mb-3 Medir el rendimiento de palabras claves y de campañas.
 
         .row.centrado-tema4.mb-4
           .col-auto
             figure.mb-3
               img(src='@/assets/curso/tema4/icono1.svg',alt='avatar que acompaña', style="width:57px;").mx-auto
           .col-auto.align-self-center
-            p.mb-3 Mejorar la experiencia del usuario.
+            p.mb-3 Acceder a métricas relacionadas con el negocio.
       .col-lg-6
         figure.mb-5
           img(src='@/assets/curso/tema4/img1.svg', style="width:400px;").mx-auto

@@ -155,9 +155,14 @@ export default {
         'porcentaje o dato numérico que evalúa el impacto y el número de personas que han visto una publicación de manera natural, sin ningún tipo de promoción o publicidad de pago (Benítez, 2019).',
     },
     {
-      termino: 'Alcance vira',
+      termino: 'Alcance viral',
       significado:
         'unidad de medida que calcula el número de personas que han visto una publicación a través de otros contactos.',
+    },
+    {
+      termino: 'Analítica web',
+      significado:
+        'forma de medir y analizar los datos de tráfico de un sitio web, a través del cual se permiten tomar las mejores decisiones y optimizar los objetivos de la empresa.',
     },
     {
       termino: 'Cookies',
@@ -247,8 +252,8 @@ export default {
           'Centro para la Industria y la Comunicación Gráfica – Regional Distrito Capital',
       },
       {
-        nombre: 'Julieth Paola Vital López',
-        cargo: 'Correctora de estilo',
+        nombre: 'José Gabriel Ortiz Abella',
+        cargo: 'Corrector de estilo',
         centro:
           'Centro para la Industria y la Comunicación Gráfica – Regional Distrito Capital',
       },
@@ -266,25 +271,25 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Marcela Gonzales'],
+        nombre: ['Marcela Gonzales Gomez'],
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
         nombre: 'Jhon Andres Ayala Angarita',
-        cargo: 'Desarrollo Front-End',
+        cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
-      {
+      /*{
         nombre: 'Nombre',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
+      },*/
       {
-        nombre: 'Nombre',
+        nombre: 'Veimar Celis Mélendez',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

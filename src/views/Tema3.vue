@@ -57,7 +57,7 @@
           img(src='@/assets/curso/tema2/numeros/num1.svg',alt='AvatarNum',style='align-self: flex-start; margin-top: 25px')
           .tarjeta.transparent1
             .p-4
-              .h4 Seguidores
+              .h4 Métricas de las publicaciones
               p.mb-4 En este punto es posible ver todas las publicaciones ordenadas de las más a la menos vista. También es posible filtrarlas con los siguientes criterios:
               
               .row.justify-content-center(style="border-bottom: 2px solid #c5c5c5")
@@ -170,7 +170,7 @@
                           .col-auto
                             figure
                               img(src='@/assets/curso/tema3/instagram/Anexo_11.jpeg',atl="anexo11", style="width:400px;").mx-auto
-                              figcaption Anexo 10 
+                              figcaption Anexo 11
 
     .row.justify-content-center
       .col-lg-12.align-self-center
@@ -202,7 +202,7 @@
                             ul.lista-ul
                               li 
                                 i.fas.fa-angle-right(style="color: #f5ca56 ;")
-                                | Interacciones: muestra el número de personas que interactuaron con la historia de la publicación.
+                                p.mb-0 #[strong Interacciones: ] muestra el número de personas que interactuaron con la historia de la publicación.
                               li 
                                 ul
                                   li

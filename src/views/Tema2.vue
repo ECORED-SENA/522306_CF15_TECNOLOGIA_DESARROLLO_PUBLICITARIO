@@ -112,14 +112,14 @@
               .row.justify-content-center(style="border-bottom: 2px solid #c5c5c5")
                 .col-lg-6
                   .tarjeta-avatar-b.mb-0
-                    img(src='@/assets/curso/tema2/avatares/img1.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/avatares/img1.svg' alt='AvatarTop').align-self-start.mt-3
                     .tarjeta
                       .p-4
                         p #[strong Acciones en la página:] muestra el número de clics en el contacto de la página y en el botón de Call to Action que esta tenga.
                 
                 .col-lg-6
                   .tarjeta-avatar-b.mb-2
-                    img(src='@/assets/curso/tema2/avatares/img1.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/avatares/img1.svg' alt='AvatarTop').align-self-start.mt-3
                     .tarjeta
                       .p-4
                         p #[strong Visitas a la página:] muestra el número de veces que las personas vieron el perfil de la página.
@@ -127,14 +127,14 @@
               .row.justify-content-center(style="border-bottom: 2px solid #c5c5c5")
                 .col-lg-6
                   .tarjeta-avatar-b.mb-0
-                    img(src='@/assets/curso/tema2/avatares/img1.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/avatares/img1.svg' alt='AvatarTop').align-self-start.mt-3
                     .tarjeta
                       .p-4
                         p #[strong Vistas previas a la página:] muestra el número de veces que las personas pasaron el mouse sobre la foto de perfil para obtener una vista previa.
                 
                 .col-lg-6
                   .tarjeta-avatar-b.mb-2
-                    img(src='@/assets/curso/tema2/avatares/img1.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/avatares/img1.svg' alt='AvatarTop').align-self-start.mt-3
                     .tarjeta
                       .p-4
                         p #[strong Me gusta de la página:] indica el número de personas nuevas que dieron “me gusta” a la página, discriminados entre orgánicos y pagados.
@@ -142,14 +142,14 @@
               .row.justify-content-center(style="border-bottom: 2px solid #c5c5c5")
                 .col-lg-6
                   .tarjeta-avatar-b.mb-0
-                    img(src='@/assets/curso/tema2/avatares/img1.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/avatares/img1.svg' alt='AvatarTop').align-self-start.mt-3
                     .tarjeta
                       .p-4
                         p #[strong Alcance de la publicación:] indica el número de personas que vieron algunas de las publicaciones al menos una vez.
                 
                 .col-lg-6
                   .tarjeta-avatar-b.mb-2
-                    img(src='@/assets/curso/tema2/avatares/img1.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/avatares/img1.svg' alt='AvatarTop').align-self-start.mt-3
                     .tarjeta
                       .p-4
                         p #[strong Alcance de la historia:] indica el número de personas que se les mostró en pantalla alguna historia de la página, diferenciando entre orgánicas, promocionales y totales.
@@ -157,14 +157,14 @@
               .row.justify-content-center(style="border-bottom: 2px solid #c5c5c5")
                 .col-lg-6
                   .tarjeta-avatar-b.mb-0
-                    img(src='@/assets/curso/tema2/avatares/img1.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/avatares/img1.svg' alt='AvatarTop').align-self-start.mt-3
                     .tarjeta
                       .p-4
                         p #[strong Recomendaciones:] indica el número de veces que otras personas recomendaron la página.
 
                 .col-lg-6
                   .tarjeta-avatar-b.mb-2
-                    img(src='@/assets/curso/tema2/avatares/img1.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/avatares/img1.svg' alt='AvatarTop').align-self-start.mt-3
                     .tarjeta
                       .p-4
                         p #[strong Interacción con la publicación:] indica el número de veces que las personas interactuaron con una de las publicaciones a través de reacciones, comentarios, contenido compartido y clics.
@@ -172,14 +172,14 @@
               .row.justify-content-center(style="border-bottom: 2px solid #c5c5c5")
                 .col-lg-6
                   .tarjeta-avatar-b.mb-0
-                    img(src='@/assets/curso/tema2/avatares/img1.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/avatares/img1.svg' alt='AvatarTop').align-self-start.mt-3
                     .tarjeta
                       .p-4
                         p #[strong Nivel de respuesta:] indica el porcentaje de los mensajes que se respondieron a través de Messenger.
 
                 .col-lg-6
                   .tarjeta-avatar-b.mb-2
-                    img(src='@/assets/curso/tema2/avatares/img1.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/avatares/img1.svg' alt='AvatarTop').align-self-start.mt-3
                     .tarjeta
                       .p-4
                         p #[strong Videos:] muestra el número de veces que los videos de la página fueron reproducidos por, al menos, 3 segundos, discriminado por pagados, totales y no pagados.
@@ -187,14 +187,14 @@
               .row.justify-content-center(style="border-bottom: 2px solid #c5c5c5")
                 .col-lg-6
                   .tarjeta-avatar-b.mb-0
-                    img(src='@/assets/curso/tema2/avatares/img1.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/avatares/img1.svg' alt='AvatarTop').align-self-start.mt-3
                     .tarjeta
                       .p-4
                         p #[strong Seguidores de la página:] número de personas nuevas que comenzaron a seguir la página, distinguiendo por pagado y no pagado.
 
                 .col-lg-6
                   .tarjeta-avatar-b.mb-2
-                    img(src='@/assets/curso/tema2/avatares/img1.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/avatares/img1.svg' alt='AvatarTop').align-self-start.mt-3
                     .tarjeta
                       .p-4
                         p #[strong Tus 5 publicaciones más recientes:] facebook muestra un resumen de las 5 últimas publicaciones mostrando la cantidad de personas que interactuaron con ellas a través de reacciones, compartidas o comentadas.
@@ -202,7 +202,7 @@
               .row.justify-content-start
                 .col-lg-6
                   .tarjeta-avatar-b.mb-0
-                    img(src='@/assets/curso/tema2/avatares/img1.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/avatares/img1.svg' alt='AvatarTop').align-self-start.mt-3
                     .tarjeta
                       .p-4
                         p #[strong Páginas en observación:] este componente permite comparar el rendimiento de la página y las publicaciones que se hagan en ella con otras páginas similares.
@@ -225,14 +225,14 @@
               .row.justify-content-center(style="border-bottom: 2px solid #c5c5c5")
                 .col-lg-6
                   .tarjeta-avatar-b.mb-0
-                    img(src='@/assets/curso/tema2/avatares/img2.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/avatares/img2.svg' alt='AvatarTop').align-self-start.mt-3
                     .tarjeta
                       .p-4
                         p #[strong Total de seguidores:] muestra el acumulado de seguidores por día a través de una gráfica lineal. 
 
                 .col-lg-6
                   .tarjeta-avatar-b.mb-2
-                    img(src='@/assets/curso/tema2/avatares/img2.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/avatares/img2.svg' alt='AvatarTop').align-self-start.mt-3
                     .tarjeta
                       .p-4
                         p #[strong Seguidores de la página:] muestra la cantidad de personas que siguen la página, clasificando en orgánicos, pagados y anulaciones de seguimientos.
@@ -240,7 +240,7 @@
               .row.justify-content-start
                 .col-auto
                   .tarjeta-avatar-b.mb-0
-                    img(src='@/assets/curso/tema2/avatares/img2.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/avatares/img2.svg' alt='AvatarTop').align-self-start.mt-3
                     .tarjeta
                       .p-4
                         p #[strong Origen de seguimientos de la página:] muestra el número de veces que se comenzó a seguir la página diferenciando el origen de seguimiento; si fue desde un computador, desde la propia página, a través de una búsqueda, desde una aplicación u otro.
@@ -262,14 +262,14 @@
               .row.justify-content-center(style="border-bottom: 2px solid #c5c5c5")
                 .col-lg-6
                   .tarjeta-avatar-b.mb-0
-                    img(src='@/assets/curso/tema2/avatares/img3.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/avatares/img3.svg' alt='AvatarTop').align-self-start.mt-3
                     .tarjeta
                       .p-4
                         p #[strong Alcance:] se refiere al número de personas que vieron los anuncios de la página; el alcance debe diferenciarse de las impresiones que incluyen varias visualizaciones de una misma persona. 
 
                 .col-lg-6
                   .tarjeta-avatar-b.mb-2
-                    img(src='@/assets/curso/tema2/avatares/img3.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/avatares/img3.svg' alt='AvatarTop').align-self-start.mt-3
                     .tarjeta
                       .p-4
                         p #[strong Interacciones:] indica el número de acciones que las personas realizan en relación con los anuncios de la página.
@@ -277,7 +277,7 @@
               .row.justify-content-start
                 .col-lg-6
                   .tarjeta-avatar-b.mb-0
-                    img(src='@/assets/curso/tema2/avatares/img3.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/avatares/img3.svg' alt='AvatarTop').align-self-start.mt-4
                     .tarjeta
                       .p-4
                         p #[strong Clics en el enlace:]esta métrica indica el número de clics en los enlaces del anuncio que direccionan a destinos específicos dentro y fuera de Facebook.
@@ -299,14 +299,14 @@
               .row.justify-content-center(style="border-bottom: 2px solid #c5c5c5")
                 .col-lg-6
                   .tarjeta-avatar-b.mb-0
-                    img(src='@/assets/curso/tema2/avatares/img4.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/avatares/img4.svg' alt='AvatarTop').align-self-start.mt-4
                     .tarjeta
                       .p-4
                         p #[strong Total de “Me gusta” de la página:]  indica el número total de las personas que han dado “Me gusta” y el rendimiento promedio a lo largo del tiempo, muestra el total acumulado de cada día.
 
                 .col-lg-6
                   .tarjeta-avatar-b.mb-2
-                    img(src='@/assets/curso/tema2/avatares/img4.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/avatares/img4.svg' alt='AvatarTop').align-self-start.mt-4
                     .tarjeta
                       .p-4
                         p #[strong “Me gusta” de la página:] este punto muestra el número de “Me gusta” de la página tanto orgánicos, pagos y “Ya no me gusta”. A través de una gráfica lineal se muestran los picos de estas variables y el detalle de cada uno de ellos en los que se puede verificar el origen de los “Me gusta” y el porcentaje de cada uno de ellos.
@@ -314,7 +314,7 @@
               .row.justify-content-start
                 .col-lg-6
                   .tarjeta-avatar-b.mb-0
-                    img(src='@/assets/curso/tema2/avatares/img4.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/avatares/img4.svg' alt='AvatarTop').align-self-start.mt-4
                     .tarjeta
                       .p-4
                         p #[strong Dónde se produjeron los “Me gusta”:] este indicador muestra el número de veces que las personas hicieron clic en el “Me gusta” de la página e indica el lugar donde se produjo: sección de noticias, en la propia página, a través de una búsqueda, por sugerencias o de personas que restauraron una cuenta inactiva.
@@ -357,14 +357,14 @@
               .row.justify-content-center(style="border-bottom: 2px solid #c5c5c5")
                 .col-lg-6
                   .tarjeta-avatar-b.mb-0
-                    img(src='@/assets/curso/tema2/avatares/img6.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/avatares/img6.svg' alt='AvatarTop').align-self-start.mt-2
                     .tarjeta
                       .p-4
                         p #[strong Visitas totales:]  muestra el total de visitas que tuvo el perfil de la página en determinado día o periodo.
 
                 .col-lg-6
                   .tarjeta-avatar-b.mb-2
-                    img(src='@/assets/curso/tema2/avatares/img6.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/avatares/img6.svg' alt='AvatarTop').align-self-start.mt-2
                     .tarjeta
                       .p-4
                         p #[strong Visitas por sección:] indica el total de visitas que tuvo cada pestaña del perfil de la página: inicio, publicaciones, fotos, videos, comunidad.
@@ -399,7 +399,7 @@
               .row.justify-content-start
                 .col-lg-6
                   .tarjeta-avatar-b.mb-0
-                    img(src='@/assets/curso/tema2/avatares/img6.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/avatares/img6.svg' alt='AvatarTop').align-self-start.mt-3
                     .tarjeta
                       .p-4
                         p #[strong Orígenes principales:] muestra el total de los usuarios conectados por origen de referencia: Facebook, Google.com, Google.com.co, Google.es o Yahoo!
@@ -422,14 +422,14 @@
               .row.justify-content-center(style="border-bottom: 2px solid #c5c5c5")
                 .col-lg-6
                   .tarjeta-avatar-b.mb-0
-                    img(src='@/assets/curso/tema2/avatares/img7.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/avatares/img7.svg' alt='AvatarTop').align-self-start.mt-3
                     .tarjeta
                       .p-4
                         p #[strong Segmentación:] muestra el segmento de mercado al que se dirigió la publicación.
 
                 .col-lg-6
                   .tarjeta-avatar-b.mb-2
-                    img(src='@/assets/curso/tema2/avatares/img7.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/avatares/img7.svg' alt='AvatarTop').align-self-start.mt-3
                     .tarjeta
                       .p-4
                         p #[strong Alcance:] muestra a cuántas personas llegó la publicación y separa entre fans y no fans.
@@ -437,7 +437,7 @@
               .row.justify-content-start
                 .col-lg-6
                   .tarjeta-avatar-b.mb-0
-                    img(src='@/assets/curso/tema2/avatares/img7.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/avatares/img7.svg' alt='AvatarTop').align-self-start.mt-3
                     .tarjeta
                       .p-4
                         p #[strong Interacción:] en este punto muestra el total de clics que recibe cada publicación y las reacciones, comentarios y las veces que se compartió el mismo.
@@ -473,14 +473,14 @@
               .row.justify-content-center(style="border-bottom: 2px solid #c5c5c5")
                 .col-lg-6
                   .tarjeta-avatar-b.mb-0
-                    img(src='@/assets/curso/tema2/avatares/img9.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/avatares/img9.svg' alt='AvatarTop').align-self-start.mt-3
                     .tarjeta
                       .p-4
                         p #[strong Tus fans:] muestra el total por rango de edad y sexo de las personas que vieron alguna publicación de la página.
 
                 .col-lg-6
                   .tarjeta-avatar-b.mb-2
-                    img(src='@/assets/curso/tema2/avatares/img9.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/avatares/img9.svg' alt='AvatarTop').align-self-start.mt-3
                     .tarjeta
                       .p-4
                         p #[strong Tus seguidores:]  muestra el total de las personas que siguen la página con rangos de edad y sexo.
@@ -488,18 +488,19 @@
               .row.justify-content-center
                 .col-lg-6
                   .tarjeta-avatar-b.mb-0
-                    img(src='@/assets/curso/tema2/avatares/img9.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/avatares/img9.svg' alt='AvatarTop').align-self-start.mt-3
                     .tarjeta
                       .p-4
                         p #[strong Personas alcanzadas:] indica el número de personas a las que se les mostró contenido de la página y clasificadas por edad y sexo.
 
                 .col-lg-6
                   .tarjeta-avatar-b.mb-2
-                    img(src='@/assets/curso/tema2/avatares/img9.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/avatares/img9.svg' alt='AvatarTop').align-self-start.mt-3
                     .tarjeta
                       .p-4
                         p #[strong Personas que interactúan:] hace referencia al número de personas que hablan de la página, catalogadas por rango de edad y sexo.
 
+              p.mb-4 Adicionalmente, esta sección muestra el país de origen de las personas que siguen e interactúan con la página y las publicaciones, así como la ciudad y el idioma.
 
 
 
