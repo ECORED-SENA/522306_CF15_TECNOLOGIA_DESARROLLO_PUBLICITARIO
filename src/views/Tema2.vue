@@ -105,7 +105,7 @@
               p.mb-4 Muestra datos generales de la actividad de la página, en un periodo de 7 o 28 días o de los últimos dos días.
               figure.mb-4
                 img(src='@/assets/curso/tema2/facebook/Anexo_1.png',alt='resumen').mx.auto
-                figcaption Anexo 1
+                
 
               p.mb-4 Entre ellos se encuentran:
 
@@ -219,7 +219,7 @@
               p.mb-4 Muestra de forma más detallada y para un periodo seleccionado, el total de seguidores de la página, los seguidores pagos y orgánicos y el origen de seguimiento de la página: computador, la página misma, por búsqueda o por aplicación. Dando clic en cada ítem, se muestran las estadísticas detalladas y datos promediados. 
               figure.mb-4
                 img(src='@/assets/curso/tema2/facebook/Anexo_2.png',alt='seguidores').mx.auto
-                figcaption(style="background-color: #c2b7ea; ") Anexo 2
+                
               p.mb-4 Para las estadísticas de seguidores se muestran tres gráficas fundamentales:
 
               .row.justify-content-center(style="border-bottom: 2px solid #c5c5c5")
@@ -256,7 +256,7 @@
               p.mb-4 Este es un componente muy importante para las empresas. Permite obtener información de los últimos 7, 30, 60 o 90 días de la actividad de los anuncios que se publiquen en la página y relacionando, además, el presupuesto invertido en dicha actividad.
               figure.mb-4
                 img(src='@/assets/curso/tema2/facebook/Anexo_3.png',alt='seguidores').mx.auto
-                figcaption Anexo 3
+                
               p.mb-4 El informe muestra tres variables fundamentales:
 
               .row.justify-content-center(style="border-bottom: 2px solid #c5c5c5")
@@ -293,7 +293,7 @@
               p.mb-4 Esta sección de las estadísticas de Facebook muestra una de las variables más importantes para las empresas. Se puede calcular desde los últimos tres meses y ver la información día a día, permitiendo observar el progreso diario de la página en cuanto al total de “Me gusta” que esta obtiene. 
               figure.mb-4
                 img(src='@/assets/curso/tema2/facebook/Anexo_4.png',alt='seguidores').mx.auto
-                figcaption(style="background-color: #c2b7ea; ") Anexo 4
+                
               p.mb-4 Las siguientes son tres tipos de estas métricas:
 
               .row.justify-content-center(style="border-bottom: 2px solid #c5c5c5")
@@ -351,7 +351,7 @@
               p.mb-4 Otra métrica con alto nivel de relevancia para la empresa es la cantidad de visitas que recibe la página. En este punto se pueden verificar las estadísticas por trimestres y periodos más cortos, incluso desde el mismo periodo del año anterior.
               figure.mb-4
                 img(src='@/assets/curso/tema2/facebook/Anexo_6.png',alt='seguidores').mx.auto
-                figcaption(style="background-color: #c2b7ea; ") Anexo 6
+                
               p.mb-4 En esta sección es posible ver una serie de datos de forma muy detallada:
 
               .row.justify-content-center(style="border-bottom: 2px solid #c5c5c5")
@@ -415,7 +415,7 @@
               p.mb-4 Es una métrica que resulta muy relevante para la empresa, tanto si la estrategia consiste en el desarrollo de una campaña o un anuncio individual. 
               figure.mb-4
                 img(src='@/assets/curso/tema2/facebook/Anexo_7.png',alt='Publicaciones').mx.auto
-                figcaption Anexo 7
+                
               p.mb-4 En esta sección se muestran dos tipos de datos en relación con las publicaciones; el primero es la información del momento en que están conectados los fans de la página y el segundo es el rendimiento de los tipos de publicaciones. 
               p.mb-4 En este mismo apartado, Facebook permite ver datos y estadísticas relacionadas con cada anuncio y que son de alta relevancia para la toma de decisiones: fecha de publicación, tipo de publicación y otros datos más detallados:
 
@@ -454,7 +454,7 @@
               p.mb-4 Este apartado muestra de forma detallada las cifras de historias publicadas en la página. La información está desglosada en: veces únicas abiertas, interacciones y número de historias publicadas.
               figure.mb-4
                 img(src='@/assets/curso/tema2/facebook/Anexo_8.png',alt='Historias').mx.auto
-                figcaption(style="background-color: #c2b7ea !important; ") Anexo 8
+                
 
 
     .row.justify-content-center
@@ -467,7 +467,7 @@
               p.mb-4 Esta sección de las estadísticas de Facebook es también muy importante. Muestra el número de personas que vieron alguna de las publicaciones realizadas en la página con variables como sexo y edad; datos que han sido suministrados por los mismos usuarios.
               figure.mb-4
                 img(src='@/assets/curso/tema2/facebook/Anexo_9.png',alt='Personas').mx.auto
-                figcaption Anexo 9
+                
                 p.mb-4 Esta sección muestra otras variables de alta utilidad para la toma de decisiones:
 
               .row.justify-content-center(style="border-bottom: 2px solid #c5c5c5")

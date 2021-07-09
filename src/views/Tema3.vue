@@ -87,11 +87,11 @@
                   .col-lg-6
                     figure.mb-4
                       img(src='@/assets/curso/tema3/instagram/Anexo_9.png',style="width:525px;").mx-auto
-                      figcaption Anexo 9
+                      
                   .col-lg-6
                     figure.mb-4
                       img(src='@/assets/curso/tema3/instagram/Anexo_10.png', style="width:495px;").mx-auto
-                      figcaption Anexo 10 
+                      
                 p.mb-4 Con este tipo de filtros es posible hacer un análisis de los mensajes en función con el rendimiento, así se pueden identificar, por ejemplo, aquellos anuncios que son preferidos por los usuarios y desarrollar más contenidos similares que atraigan nuevos usuarios o aumenten el flujo de lectores.
 
               .row(style="border-bottom: 2px solid #c5c5c5;")
@@ -170,8 +170,7 @@
                           .col-auto
                             figure
                               img(src='@/assets/curso/tema3/instagram/Anexo_11.jpeg',atl="anexo11", style="width:400px;").mx-auto
-                              figcaption Anexo 11
-
+                              
     .row.justify-content-center
       .col-lg-12.align-self-center
         .tarjeta-avatar-b
@@ -184,11 +183,11 @@
                 .col-lg-5
                   figure.mb-4
                     img(src='@/assets/curso/tema3/instagram/Anexo_12.jpg',atl="anexo12").mx.auto
-                    figcaption(style="background-color: #c2b7ea; ") Anexo12
+                    
                 .col-lg-5
                   figure.mb-4
                     img(src='@/assets/curso/tema3/instagram/Anexo_13.jpg',atl="anexo13").mx.auto
-                    figcaption(style="background-color: #c2b7ea; ") Anexo13
+                    
               
               .row.justify-content-start(style="")
                 .col-lg-12
@@ -287,7 +286,7 @@
                           .col-lg-5
                             figure.mb-2
                               img(src='@/assets/curso/tema3/instagram/Anexo_14.png',alt='Anexo 14').mx-auto
-                              figcaption(style="background-color: #c2b7ea; ") Anexo 14
+                              
       
 
               .row.justify-content-start(style="border-bottom: 2px solid #c5c5c5")
@@ -309,7 +308,7 @@
                           .col-lg-5
                             figure.mb-2
                               img(src='@/assets/curso/tema3/instagram/Anexo_15.png',alt='Anexo 15').mx-auto
-                              figcaption(style="background-color: #c2b7ea; ") Anexo 15
+                              
               .row.justify-content-center
                 .col-lg-12
                   .tarjeta-avatar-b.mb-0
@@ -321,7 +320,7 @@
                           .col-lg-5
                             figure.mb-2
                               img(src='@/assets/curso/tema3/instagram/Anexo_16.png',alt='Anexo 16').mx-auto
-                              figcaption(style="background-color: #c2b7ea; ") Anexo 16
+                              
 
 
 
