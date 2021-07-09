@@ -336,7 +336,7 @@
                     .titulo-segundo.mb-4
                       h3 Alcance
                     p.mb-4 Es una de las métricas más relevantes en un plan de medios y hace parte de los objetivos KPI que desde las estrategias de medios se plantean.
-                    a.boton.color-acento-botones(:href="obtenerLink('/downloads/Infografia_CF3_ExamenFisico.pdf')" target="_blank" type="application/pdf")
+                    a.boton.color-acento-botones(:href="obtenerLink('/downloads/Alcance.pdf')" target="_blank" type="application/pdf")
                       span Descargar
                       i.fas.fa-file-download
               

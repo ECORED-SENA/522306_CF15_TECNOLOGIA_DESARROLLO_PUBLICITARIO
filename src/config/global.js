@@ -30,19 +30,19 @@ export default {
             icono: 'far fa-file-alt',
             numero: '1.1',
             titulo: 'Qué es la analítica web?',
-            hash: '1.1',
+            hash: 't_1_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
             titulo: 'Tendencias de la analítica web',
-            hash: '1.2',
+            hash: 't_1_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.3',
             titulo: 'Métricas en la analítica web',
-            hash: '1.3',
+            hash: 't_1_3',
           },
         ],
       },
@@ -238,24 +238,24 @@ export default {
       {
         nombre: 'Manuel Augusto Arias López',
         cargo: 'Instructor-Experto temático',
-        centro: 'Centro de Comercio y Servicios – Regional Quindío',
-      },
-      {
-        nombre: 'Andrés Felipe Velandia Espitia',
-        cargo: 'Diseñador instruccional',
-        centro: 'Centro de Diseño y Metrología – Regional Distrito Capital',
+        centro: 'Centro de Comercio y Servicios Regional Quindío',
       },
       {
         nombre: 'Vilma Lucía Perilla Méndez',
         cargo: 'Evaluadora instruccional',
         centro:
-          'Centro para la Industria y la Comunicación Gráfica – Regional Distrito Capital',
+          'Centro para la Industria y la Comunicación Gráfica Regional Distrito Capital',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Diseñador instruccional',
+        centro: 'Centro de Diseño y Metrología Regional Distrito Capital',
       },
       {
         nombre: 'José Gabriel Ortiz Abella',
         cargo: 'Corrector de estilo',
         centro:
-          'Centro para la Industria y la Comunicación Gráfica – Regional Distrito Capital',
+          'Centro para la Industria y la Comunicación Gráfica Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -277,17 +277,46 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro Industrial del Diseño y la Manufactura Regional Tolima',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Caceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodriguez Rodriguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Lina Marcela Perez Manchego',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Adriana Marcela Suárez Eljure',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Ludwyng Corzo García',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
         nombre: 'Jhon Andres Ayala Angarita',
         cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
-      /*{
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },*/
       {
         nombre: 'Veimar Celis Mélendez',
         cargo: 'Validación de diseño y contenido',
