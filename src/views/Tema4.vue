@@ -152,7 +152,7 @@
                     .titulo-segundo.mb-4
                       h3 Informes de audiencia en Google Analytics
                     p.mb-4 Las mediciones de audiencia son una información con mucho valor para la empresa. Estas permiten conocer el perfil en detalle de los visitantes de una página para la toma de decisiones. Se encuentra:
-                    a.boton.color-acento-botones(:href="obtenerLink('/downloads/nformes de audiencia en Google Analytics .pdf')" target="_blank" type="application/pdf")
+                    a.boton.color-acento-botones(:href="obtenerLink('/downloads/Informes de audiencia en Google Analytics.pdf')" target="_blank" type="application/pdf")
                       span Descargar
                       i.fas.fa-file-download
 
