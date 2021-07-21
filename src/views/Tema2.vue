@@ -63,7 +63,7 @@
           .arrow-crd__header--azul
             p 6
           .arrow-crd__body
-            p.mb-4 Visitas a la <br> pagina
+            p.mb-4 Visitas a la <br> página
             figure.mb-4
               img.mb-4(src='@/assets/curso/tema2/avatares/img6.svg',alt='AvatarTop', style="width:90px")
       .col.mb-4(style="padding:1px;")
@@ -347,7 +347,7 @@
           img(src='@/assets/curso/tema2/numeros/num6.svg',alt='AvatarNum',style='align-self: flex-start; margin-top: 25px')
           .tarjeta.transparent1
             .p-4
-              .h4 Visitas a la pagina
+              .h4 Visitas a la página
               p.mb-4 Otra métrica con alto nivel de relevancia para la empresa es la cantidad de visitas que recibe la página. En este punto se pueden verificar las estadísticas por trimestres y periodos más cortos, incluso desde el mismo periodo del año anterior.
               figure.mb-4
                 img(src='@/assets/curso/tema2/facebook/Anexo_6.png',alt='seguidores').mx.auto

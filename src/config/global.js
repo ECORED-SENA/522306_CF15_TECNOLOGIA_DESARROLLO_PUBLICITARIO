@@ -29,7 +29,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Qué es la analítica web?',
+            titulo: '¿Qué es la analítica web?',
             hash: 't_1_1',
           },
           {
